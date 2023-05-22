@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input[type=text] {
+        width: 30%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        }
+        body{
+            background-color: #EEEEEE;
+        }
+        h1{
+            text-align: center;
+        }
+        thead{
+            background-color: #FFE5CA;
+        }
+        table, td, th{
+            border: 1px solid black;
+        }
+        table{
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td{
+            text-align: center;
+        }
+        button{
+            background-image: linear-gradient(#FFEAD2 ,#e7e9ec);
+            border-color: #adb1b8 #a2a6ac #8d9096;
+            border-style: solid;
+            color: #0f1111;
+            height: 29px;
+            font-size: 13px;
+            outline: 0;
+            padding: 0 11px;
+            }
+
+        
+    </style>
+</head>
+<body>
+    <h1>List Buku </h1>
+    <div class="container">
+        <div class="mb-1">
+            <div class="mb-1">
+                <input type="text" id="title" placeholder="title">
+            </div>
+            <br>
+            <div class="mb-1">
+                <input type="text" id="author" placeholder="author">
+            </div>
+            <br>
+            <div class="mb-1">
+                <button id="btnSubmit">submit</button>
+            </div>
+        </div>
+    </div>
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th id="id">Id</th>
+                <th id="title">Title</th>
+                <th id="author">Author</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="postcontent">
+
+        </tbody>
+    </table>
+    <script src="fakefake.js"></script>
+</body>
+</html>

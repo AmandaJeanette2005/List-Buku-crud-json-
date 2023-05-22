@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "title": "Sebuah Seni Untuk Bersikap Bodo Amat ",
+      "author": "Mark Manson ",
+      "id": 1
+    },
+    {
+      "title": "Rich Dad Poor Dad ",
+      "author": "Robert T. Kiyosaki ",
+      "id": 2
+    },
+    {
+      "title": "The 5 Level of Leadership",
+      "author": "John C. Maxwell ",
+      "id": 3
+    },
+    {
+      "title": "Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too ",
+      "author": "Gary Vaynerchuk ",
+      "id": 4
+    },
+    {
+      "title": "Bung Karno: Penyambung Lidah Rakyat Indonesia",
+      "author": "Cindy Adams ",
+      "id": 5
+    },
+    {
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L’Engle ",
+      "id": 6
+    },
+    {
+      "title": "Murder on the Orient Express ",
+      "author": "Agatha Christie ",
+      "id": 7
+    },
+    {
+      "title": "Home Cooking ala Xander's Kitchen",
+      "author": "Junita",
+      "id": 8
+    },
+    {
+      "title": "Norwegian Wood ",
+      "author": "Haruki Murakami ",
+      "id": 9
+    },
+    {
+      "title": "The Naked Traveler 8 ",
+      "author": "Trinity",
+      "id": 10
+    },
+    {
+      "title": "Mantappu Jiwa Buku Latihan Soal ",
+      "author": "Jerome Polin Sijabat ",
+      "id": 11
+    },
+    {
+      "title": "Nanti Kita Bercerita Tentang Hari Ini ",
+      "author": "Marchella FP ",
+      "id": 12
+    },
+    {
+      "title": "Merdeka Sejak Hati ",
+      "author": "A Fuadi",
+      "id": 13
+    },
+    {
+      "title": "Luka Kata ",
+      "author": "Canda Malik (Gus Candra)",
+      "id": 14
+    },
+    {
+      "title": "Series Bumi",
+      "author": "Tere Liye",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
